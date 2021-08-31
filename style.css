@@ -12,8 +12,10 @@
   --fourth-color: #3f425d;
   --fiveth-color: #f38ba0;
   --icon-color: #eeeeee;
-  --box-shadow-1: 10px 10px 40px rgba(0, 0, 0, 0.192), -10px -10px 25px #ededed;
-  --box-shadow-2: 5px 5px 25px rgba(0, 0, 0, 0.192), -7px -7px 25px #ededed;
+  --box-shadow-1: 15px 15px 40px rgba(0, 0, 0, 0.192),
+    -15px -15px 40px rgb(218, 229, 253);
+  --box-shadow-2: 10px 10px 25px rgba(0, 0, 0, 0.192),
+    -10px -10px 25px rgb(218, 229, 253);
 }
 
 html[data-theme="dark"] {
